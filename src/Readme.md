@@ -1,1 +1,0 @@
-Expensify Daily Budgeting App
